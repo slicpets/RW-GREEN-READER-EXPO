@@ -5,13 +5,9 @@
   },
   "build": {
     "production": {
-      "channel": "production",
       "ios": {
         "distribution": "store"
       }
     }
-  },
-  "submit": {
-    "production": {}
   }
 }
