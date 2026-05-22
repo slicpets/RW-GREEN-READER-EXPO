@@ -23,8 +23,12 @@
       },
       "edgeToEdgeEnabled": true
     },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    }
+"web": {
+  "favicon": "./assets/favicon.png"
+},
+
+"extra": {
+  "eas": {
+    "projectId": "YOUR_PROJECT_ID"
   }
 }
