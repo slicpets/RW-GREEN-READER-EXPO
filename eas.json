@@ -1,17 +1,17 @@
 {
   "cli": {
-    "version": ">= 13.0.0"
+    "version": ">= 13.0.0",
+    "appVersionSource": "remote"
   },
   "build": {
     "production": {
-      "ios": {
-        "distribution": "store"
-      }
-    },
-    "internal": {
+      "channel": "production",
       "ios": {
         "distribution": "store"
       }
     }
+  },
+  "submit": {
+    "production": {}
   }
 }
