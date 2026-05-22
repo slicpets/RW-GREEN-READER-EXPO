@@ -13,8 +13,10 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "bundleIdentifier": "com.slicpets.rwgreenreader",
-      "supportsTablet": true
+    "bundleIdentifier": "com.slicpets.rwgreenreader",
+  "supportsTablet": true,
+  "infoPlist": {
+    "ITSAppUsesNonExemptEncryption": false
     },
     "android": {
       "adaptiveIcon": {
