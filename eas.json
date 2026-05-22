@@ -8,14 +8,9 @@
         "distribution": "store"
       }
     },
-    "preview": {
-      "ios": {
-        "distribution": "internal"
-      }
-    },
     "internal": {
       "ios": {
-        "distribution": "internal"
+        "distribution": "store"
       }
     }
   }
